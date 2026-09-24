@@ -1,0 +1,13 @@
+# Core
+torch>=2.0
+numpy
+h5py
+matplotlib
+tqdm
+
+# Part 1 extras
+scikit-learn
+seaborn
+
+# Notebooks
+jupyter

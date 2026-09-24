@@ -1,0 +1,16 @@
+# implementation notebooks (kept private: university academic integrity policy for coursework)
+notebooks/
+
+# local archive of superseded iterations + full datasets (kept locally, not for GitHub)
+_archive/
+
+# OS / editor junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+.ipynb_checkpoints/
+
+# full datasets are not redistributed (course materials, >100 MB files)
+datasets/glyph_80k.h5
+datasets/infix_88k.h5
+datasets/postfix_208k.h5
